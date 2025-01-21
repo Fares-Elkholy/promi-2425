@@ -227,7 +227,7 @@ Ansatz. Schließlich wissen wir nichts über die Verteilung und Entropie misst
 eben die Ungewissheit einer Verteilung, also kann es durchaus hilfreich sein
 eine Verteilung mit maximaler Entropie zu wählen.
 
-Zur Wiederholung: Die Formel von Entropie für eine steiuge Zufallsvariable $X$ 
+Zur Wiederholung: Die Formel von Entropie für eine stetige Zufallsvariable $X$ 
 bzw. deren Verteilung $p$ lautet wie folgt:
 $
   Eta (p) = - integral p(x) log_2 p(x) dif x 
